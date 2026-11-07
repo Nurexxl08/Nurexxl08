@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! Я Нурель 👋 | Junior Frontend Developer
 
-<!--
-**Nurexxl08/Nurexxl08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий фронтенд-разработчик из Бишкека. Увлекаюсь созданием современных, адаптивных и удобных веб-интерфейсов, постоянно изучаю новые технологии и пишу код.
 
-Here are some ideas to get you started:
+### 💻 Стек технологий
+* **Языки:** HTML5, CSS3, JavaScript
+* **Инструменты:** Git, GitHub, VS Code
+* **В разработке:** Изучение продвинутого JavaScript и фреймворков
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Мои проекты
+Здесь вы можете найти мои учебные и практические работы, в которых я тренируюсь верстать сайты и оживлять их с помощью скриптов.
+
+---
+📫 **Как связаться со мной:**
+* GitHub: [@Nurexxl08](https://github.com/Nurexxl08)
