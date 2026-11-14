@@ -13,4 +13,4 @@
 ---
 📫 **Как связаться со мной:**
 * GitHub: [@Nurexxl08](https://github.com/Nurexxl08)
-* Telegram: [@Bek7an0v312]
+* Telegram: [@Bek7an0v312](https://t.me/Bek7an0v312)
