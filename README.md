@@ -1,16 +1,16 @@
-# 🌌 Добро пожаловать в мой цифровой мир!
+# 🌌 ESHIMKANOV NURAEL
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050816,50:111B45,100:00F7FF&text=YOUR%20NAME&fontColor=FFFFFF&fontSize=75&animation=fadeIn&stroke=00F7FF&strokeWidth=2&desc=FRONTEND%20DEVELOPER%20%7C%20CREATIVE%20CODER&descAlignY=70&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,35:172554,70:312E81,100:06B6D4&text=NURAEL&fontColor=FFFFFF&fontSize=95&fontAlignY=45&animation=fadeIn&stroke=06B6D4&strokeWidth=2&desc=FRONTEND%20DEVELOPER&descSize=22&descAlignY=65" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Привет!+Я+Frontend-разработчик+%F0%9F%91%8B;Создаю+необычные+веб-интерфейсы+%F0%9F%8E%A8;Люблю+код%2C+анимации+и+дизайн+%E2%9C%A8;Каждый+проект+—+новая+возможность+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=23&duration=2200&pause=700&color=06B6D4&center=true&vCenter=true&width=750&lines=HELLO%2C+I'M+ESHIMKANOV+NURAEL;JUNIOR+FRONTEND+DEVELOPER;CREATIVE+CODER+%26+WEB+DESIGNER;BUILDING+THE+FUTURE+WITH+CODE" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/YOUR_USERNAME)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=00F7FF)](https://t.me/YOUR_TELEGRAM)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F7FF)](https://your-portfolio.com)
+<img src="https://img.shields.io/badge/STATUS-LEARNING-06B6D4?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/LEVEL-JUNIOR-8B5CF6?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/LOCATION-KYRGYZSTAN-22C55E?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
@@ -18,107 +18,188 @@
 
 <div align="center">
 
-## ✦ 01 — ОБО МНЕ
+# ◈ ABOUT ME
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
-
-### Превращаю идеи в цифровую реальность.
+### Привет! Я Нураэль 👋
 
 </div>
 
-Я Junior Frontend Developer, увлечённый созданием современных веб-приложений, красивых интерфейсов и интерактивных пользовательских решений.
+Я начинающий Frontend-разработчик из Кыргызстана 🇰🇬
 
-Для меня программирование — это не просто написание кода. Это возможность создавать что-то уникальное, экспериментировать, решать интересные задачи и постоянно становиться лучше.
+Увлекаюсь созданием современных веб-сайтов, интерактивных интерфейсов и красивых цифровых продуктов.
 
-**Мой подход к разработке:**
-
-- ⚡ Производительность и чистота кода
-- 🎨 Современный дизайн и внимание к деталям
-- 🌊 Плавные анимации и интерактивность
-- 📱 Адаптивность для любых устройств
-- 🧠 Постоянное изучение технологий
-- 🚀 Создание реальных проектов
-
-<details>
-<summary><b>🧬 Открыть мой профиль разработчика</b></summary>
+Мне нравится не просто писать код, а превращать идеи в реальные проекты, экспериментировать с дизайном и находить интересные решения.
 
 ```javascript
-const developer = {
-    name: "YOUR NAME",
-    role: "Junior Frontend Developer",
-    location: "Bishkek, Kyrgyzstan 🇰🇬",
-
-    personality: [
-        "Creative",
-        "Curious",
-        "Ambitious",
-        "Always Learning"
-    ],
+const nurael = {
+    fullName: "Eshimkanov Nurael",
+    position: "Junior Frontend Developer",
+    country: "Kyrgyzstan 🇰🇬",
 
     passion: "Web Development",
 
-    favoriteThings: [
-        "Clean Code",
-        "Modern UI",
-        "Creative Animations",
-        "Dark Themes"
+    skills: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
     ],
 
-    mission: "Build something extraordinary 🚀"
+    interests: [
+        "Creative Coding",
+        "Modern UI Design",
+        "Web Animations",
+        "Frontend Development"
+    ],
+
+    mindset: "Always improving.",
+    dream: "Build something extraordinary."
 };
 
-console.log("Welcome to my world!");
+console.log("Welcome to my world! 🚀");
 ```
+
+## ⚡ WHAT I DO
+
+<details>
+<summary>🎨 UI / UX DEVELOPMENT</summary>
+
+Создаю современные интерфейсы, уделяю внимание деталям, цветам, типографике и удобству использования.
+
+</details>
+
+<details>
+<summary>⚛️ FRONTEND DEVELOPMENT</summary>
+
+Разрабатываю интерактивные веб-приложения, работаю с JavaScript и React.
+
+</details>
+
+<details>
+<summary>✨ CREATIVE ANIMATIONS</summary>
+
+Экспериментирую с CSS-анимациями, переходами, эффектами наведения и динамическими элементами.
+
+</details>
+
+<details>
+<summary>📱 RESPONSIVE DESIGN</summary>
+
+Создаю интерфейсы, которые адаптируются под компьютеры, планшеты и смартфоны.
 
 </details>
 
 ---
 
+# ◈ TECH STACK
+
 <div align="center">
 
-## ✦ 02 — МОИ ТЕХНОЛОГИИ
+### FRONTEND
 
-### Инструменты, с которыми я создаю цифровые продукты.
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,tailwind,sass&theme=dark&perline=4"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,tailwind,sass,bootstrap&theme=dark&perline=5"/>
+### TOOLS
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vite,npm,firebase,nodejs,mongodb&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vite,npm,vercel&theme=dark&perline=4"/>
+
+### CURRENTLY EXPLORING
+
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,nodejs,mongodb,firebase&theme=dark&perline=5"/>
 
 </div>
 
 ---
 
-## ✦ 03 — МОЯ ФИЛОСОФИЯ
+# ◈ DEVELOPER TERMINAL
 
-<div align="center">
+```bash
+┌──(nurael㉿developer)-[~/portfolio]
+└─$ whoami
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Think+Different.;Design+With+Passion.;Write+Clean+Code.;Build+The+Future." />
+Eshimkanov Nurael
 
-</div>
+┌──(nurael㉿developer)-[~/portfolio]
+└─$ cat mission.txt
 
-```javascript
-function becomeBetterDeveloper() {
-    const dailyRoutine = [
-        "Learn something new",
-        "Write better code",
-        "Build real projects",
-        "Solve difficult problems",
-        "Never give up"
-    ];
+Learn new technologies
+Create beautiful websites
+Build real-world applications
+Improve every single day
 
-    dailyRoutine.forEach(task => {
-        console.log("⚡ " + task);
-    });
-}
+┌──(nurael㉿developer)-[~/portfolio]
+└─$ npm run future
 
-becomeBetterDeveloper();
+🚀 Building something amazing...
 ```
 
 ---
 
-## ✦ 04 — МОИ ПРОЕКТЫ
+# ◈ GITHUB PERFORMANCE
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=06B6D4&icon_color=8B5CF6&text_color=E2E8F0&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=020617&title_color=06B6D4&text_color=E2E8F0" width="49%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=020617&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4" width="90%"/>
+
+</div>
+
+---
+
+# ◈ CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=020617&color=06B6D4&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# ◈ MY PROJECTS
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true&bg_color=020617"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true&bg_color=020617"/>
+</a>
+
+</div>
+
+### 🚀 Мои направления
+
+| Категория | Описание |
+|:---|:---|
+| 🌐 Web Development | Создание веб-сайтов |
+| ⚛️ React Apps | Интерактивные приложения |
+| 🎨 Creative UI | Современные интерфейсы |
+| ✨ Animations | CSS и веб-анимации |
+| 📱 Responsive | Адаптивная разработка |
+
+---
+
+# ◈ MY DEVELOPMENT ROADMAP
+
+```text
+╔══════════════════════════════════════╗
+║          DEVELOPER JOURNEY           ║
+╚══════════════════════════════════════╝
+
+  HTML & CSS              ██████████
+  JavaScript              ████████░░
+  Responsive Design       ████████░░
+  React                   ██████░░░░
+  TypeScript              ░░░░░░░░░░
+  Next.js                 ░░░░░░░░░░
+  Advanced Architecture   ░░░░░░░░░░
+
+  STATUS: ALWAYS LEARNING 🚀
