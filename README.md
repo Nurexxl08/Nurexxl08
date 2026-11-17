@@ -1,16 +1,16 @@
 <div align="center">
-  <!-- Анимированный SVG-баннер (Capsule Render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180§ion=header&text=Привет,%20я%20Frontend-разработчик!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Создаю%20современные,%20отзывчивые%20и%20живые%20веб-интерфейсы&descAlignY=58&descSize=18" width="100%" />
+  <!-- Верхний анимированный волновой баннер -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200§ion=header&text=Hello,%20World!%20I'm%20Junior%20Dev&fontSize=36&fontColor=38BDF8&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20UI/UX%20Enthusiast%20|%20Animation%20Lover&descAlignY=60&descSize=16" width="100%" />
 </div>
 
 <p align="center">
-  <!-- Печатающийся текст (Typing SVG) -->
+  <!-- Печатающийся динамический текст -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Junior+Frontend+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Next.js+%7C+Tailwind;Превращаю+макеты+в+чистый+код+%E2%9C%A8;Открыт+к+интересным+проектам+и+офферам!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=4000&pause=1000&color=F43F5E¢er=true&vCenter=true&width=650&lines=Building+digital+experiences+with+code+%E2%9C%A8;React.js+%7C+TypeScript+%7C+Next.js+%7C+Tailwind;Turning+designs+into+smooth+animations+%F0%9F%8E%A8;Let's+build+something+awesome+together!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Бейджи для связи -->
+<!-- Бейджи контактов с градиентами -->
 <p align="center">
   <a href="https://t.me/твой_ник" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -24,82 +24,112 @@
   <a href="https://твой-сайт-портфолио.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://discord.com/users/твой_id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 Обо мне
+### ⚡ Обо мне
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+<img align="right" width="300" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Hacker animation" />
 
-- 🌱 Сейчас активно углубляюсь в **React 19**, **Next.js (App Router)** и анимации (**Framer Motion**).
-- 💡 Люблю уделять внимание деталям UI/UX, микроанимациям и доступности (a11y).
-- ⚡ Моя суперсила: быстро разбираюсь в новых технологиях, пишу поддерживаемый код и не боюсь сложных задач.
-- 🎯 В поиске первой коммерческой роли **Junior Frontend Developer** в сильной команде.
-- 😄 Вне кода: *[напиши свое хобби, например: люблю кофе, настольные игры и киберпанк]*.
+- 🔭 В данный момент разрабатываю пет-проекты с упором на **производительность, адаптивность и плавные микроанимации**.
+- 🌱 Углубленно изучаю паттерны проектирования в **TypeScript**, серверные компоненты **Next.js** и продвинутый **Framer Motion**.
+- 💡 Верю, что хороший интерфейс должен быть не только функциональным, но и приносить эстетическое удовольствие пользователю.
+- 🎯 Цель на этот год: устроиться в сильную продуктовую команду на позицию **Junior+ Frontend Developer**.
+- 🎧 Вне монитора: пишу музыку / играю в гитару / изучаю кибербезопасность / обожаю кофе ☕.
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Мой стек технологий
+### 🛠️ Технологический стек
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,vite,git,github,figma,vscode&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vite,webpack,git,github,gitlab,figma,vscode,postman,nodejs&perline=10" alt="Tech Stack" />
 </div>
+
+<br>
+
+| Категория | Технологии | Уровень владения |
+| :--- | :--- | :--- |
+| **Frontend** | HTML5, CSS3, SCSS/SASS, Tailwind CSS | 🟢 Уверенно / Продвинутый |
+| **JavaScript / TS** | ES6+, TypeScript, DOM API, Async/Await | 🟢 Хорошая база / Практика |
+| **Frameworks** | React, Next.js (Pages & App Router), Redux Toolkit | 🟢 Активно использую |
+| **Tools & Testing** | Git, GitHub Actions, Vite, Webpack, Figma, Postman | 🟢 Базовый / Рабочий уровень |
 
 ---
 
 ### 🚀 Избранные проекты
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">🛒 E-Commerce Store</h3>
-      <p align="center">Современный интернет-магазин с корзиной, фильтрацией и оформлением заказа.</p>
-      <p align="center">
-        <b>Стек:</b> React, TypeScript, Redux Toolkit, Tailwind CSS
-      </p>
-      <p align="center">
-        <a href="https://ссылка-на-демо.com">🌐 Live Demo</a> • 
-        <a href="https://github.com/твой_ник/репозиторий">💻 GitHub Repo</a>
-      </p>
+    <td width="33%" align="center">
+      <img src="https://images.unsplash.com/photo-1556742049-0a67d55375af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3" width="100%" style="border-radius: 8px;" alt="Project 1"/>
+      <h3>🛒 E-Commerce App</h3>
+      <p>Интернет-магазин с корзиной, фильтрацией товаров, интеграцией API и кастомными модалками.</p>
+      <p><b>React • TS • Tailwind • Redux</b></p>
+      <a href="https://ссылка-на-демо">🌐 Demo</a> • <a href="https://github.com/твой_ник/репо">💻 Code</a>
     </td>
-    <td width="50%">
-      <h3 align="center">📋 Task Manager (Kanban)</h3>
-      <p align="center">Клон Trello с поддержкой Drag-and-Drop, темной темой и сохранением в LocalStorage.</p>
-      <p align="center">
-        <b>Стек:</b> Next.js, TypeScript, dnd-kit, Framer Motion
-      </p>
-      <p align="center">
-        <a href="https://ссылка-на-демо.com">🌐 Live Demo</a> • 
-        <a href="https://github.com/твой_ник/репозиторий">💻 GitHub Repo</a>
-      </p>
+    <td width="33%" align="center">
+      <img src="https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3" width="100%" style="border-radius: 8px;" alt="Project 2"/>
+      <h3>📋 Kanban Task Tracker</h3>
+      <p>Аналог Trello с поддержкой Drag-and-Drop, сохранением в LocalStorage и темой оформления.</p>
+      <p><b>Next.js • dnd-kit • Framer Motion</b></p>
+      <a href="https://ссылка-на-демо">🌐 Demo</a> • <a href="https://github.com/твой_ник/репо">💻 Code</a>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://images.unsplash.com/photo-1592210454359-9043f067919b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3" width="100%" style="border-radius: 8px;" alt="Project 3"/>
+      <h3>🌤️ Weather & News Hub</h3>
+      <p>Погодный виджет с геопозицией, графиками прогноза на неделю и интерактивной лентой новостей.</p>
+      <p><b>React • REST API • Chart.js</b></p>
+      <a href="https://ссылка-на-демо">🌐 Demo</a> • <a href="https://github.com/твой_ник/репо">💻 Code</a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Статистика GitHub
+### 📈 GitHub Статистика и Активность
 
 <div align="center">
-  <!-- Карточка общей статистики (замени YOUR_GITHUB_USERNAME на свой логин) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <!-- Карточка топ языков -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <!-- Общая статистика профиля -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=490" />
+  <!-- Топ используемых языков -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
-<!-- Анимированная змейка, которая съедает твои коммиты! -->
+<div align="center">
+  <!-- График активности (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<!-- Анимированная змейка, которая поедает коммиты -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-<!-- Анимированный футер -->
+### 💬 GitHub Трофеи
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100§ion=footer" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=4" />
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ «Code is like humor. When you have to explain it, it’s bad.» — Cory House</i>
+</div>
+
+<!-- Нижний анимированный волнистый футер -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120§ion=footer&text=Спасибо%20за%20визит!%20🚀&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
 </div>
