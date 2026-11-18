@@ -1,80 +1,56 @@
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=210&section=header&text=Nurel%20Eshimkanov&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Junior%20Frontend%20Developer&descAlignY=60&animation=fadeIn"
-    width="100%"
-    alt="Animated profile header"
-  />
+<!-- Заголовок с анимированным баннером или приветствием -->
+<h1 align="center">Привет, я Нурель Эшимканов 👋</h1>
+<h3 align="center">Junior Frontend Developer | Начинающий фронтенд-разработчик</h3>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Создаю+понятные+и+удобные+веб-интерфейсы;Изучаю+React%2C+TypeScript+и+современный+frontend;Расту+как+разработчик+каждый+день"
-    alt="Animated introduction"
-  />
-
-  <p>
-    <a href="https://github.com/Nurexxl08">
-      <img src="https://img.shields.io/badge/GitHub-Nurexxl08-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-    </a>
-    <img src="https://img.shields.io/badge/Role-Junior%20Frontend%20Developer-2563EB?style=for-the-badge" alt="Junior Frontend Developer" />
-    <img src="https://komarev.com/ghpvc/?username=Nurexxl08&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nurexxl08&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=flat-square" alt="Status" />
+</p>
 
 ---
 
-## Привет! Я Nurel 👋
+### 👨‍💻 Обо мне / About Me
 
-Я начинающий frontend-разработчик. Мне нравится превращать идеи в аккуратные, быстрые и удобные интерфейсы. Сейчас я развиваю базу веб-разработки, практикуюсь на проектах и постепенно осваиваю современные инструменты.
+🇷🇺 Я начинающий фронтенд-разработчик. Мне нравится превращать идеи в аккуратные, быстрые и удобные пользовательские интерфейсы. Сейчас я активно развиваюсь в веб-разработке, практикуюсь на пет-проектах и осваиваю современные инструменты.
 
-- 🎨 Интересуюсь UI, адаптивной вёрсткой и вниманием к деталям
-- ⚛️ Практикую HTML, CSS, JavaScript, React и TypeScript
-- 🧰 Знакомлюсь с Tailwind CSS и Redux Toolkit
-- 🌱 **Next.js пока изучаю** — это направление моего дальнейшего развития, а не навык, который я выдаю за уверенный опыт
-- 🤝 Открыт к обратной связи, командной работе и новым задачам
+🇬🇧 I am an aspiring Frontend Developer who loves turning ideas into clean, fast, and user-friendly interfaces. Currently, I am practicing with pet projects and mastering modern tools.
 
-## Технологии
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,redux,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, Redux, Git, GitHub and VS Code" />
-</div>
-
-## Сейчас в фокусе
-
-- Укрепляю основы frontend-разработки и адаптивной вёрстки
-- Практикую React и TypeScript на небольших проектах
-- Планирую изучать Next.js после закрепления текущих основ
-
-## GitHub
-
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Nurexxl08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurexxl08&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used languages"
-  />
-  <br />
-  <img
-    src="https://streak-stats.demolab.com?user=Nurexxl08&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</div>
-
-## Мои проекты
-
-Посмотрите мои репозитории и закреплённые проекты в [профиле GitHub](https://github.com/Nurexxl08?tab=repositories). Там — мои практические работы и прогресс в frontend-разработке.
+- 🎨 **Интересуюсь:** пользовательскими интерфейсами (UI/UX), адаптивной вёрсткой и вниманием к деталям.
+- ⚛️ **Стек технологий:** HTML, CSS, JavaScript, React и TypeScript.
+- 🧰 **Изучаю/Практикую:** Tailwind CSS и Redux Toolkit.
+- 🌱 **В планах:** Next.js (планирую начать изучение после укрепления текущих основ).
+- 🤝 **Открыт** к обратной связи, командной работе и новым задачам.
 
 ---
 
-<div align="center">
-  <i>Спасибо, что заглянули! Учусь, создаю и становлюсь лучше с каждым проектом ✨</i>
-  <br /><br />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=110&section=footer"
-    width="100%"
-    alt="Animated footer"
-  />
-</div>
+### 🛠️ Технологии и инструменты / Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,redux,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+### 🎯 Сейчас в фокусе / Current Focus
+
+- Укрепление фундаментальных знаний frontend-разработки и адаптивной вёрстки.
+- Практика работы с **React** и **TypeScript** в небольших приложениях.
+- Разработка и улучшение собственных проектов (`Apple` [apple](https://github.com/Nurexxl08/apple), `Maison` [Maison-site-demo](https://github.com/Nurexxl08/Maison-site-demo), телеграм-боты и др.).
+
+---
+
+### 📊 Статистика GitHub / GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurexxl08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurexxl08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  ✨ <em>Учусь, создаю и становлюсь лучше с каждым проектом!</em> ✨
+</p>
