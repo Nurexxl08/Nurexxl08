@@ -56,13 +56,13 @@
 
 ---
 
-### 🌟 Избранные проекты / Featured Projects
+### 🌟 Мои проекты / My Projects
 
-| Проект | Описание | Стек / Особенности | Ссылка |
+| Проект | Описание | Стек / Особенности | Ссылка на репозиторий |
 | :--- | :--- | :--- | :--- |
-| **🏥 Клиническая система** | Клиническая система управления с современным визуальным интерфейсом | UI/UX, адаптивность, формы записи | [Открыть проект](https://github.com/Nurexxl08) |
-| **🎬 Этномедия** | Киноплатформа с мрачным визуальным стилем | Каталог, поиск, фильтрация фильмов | [Открыть проект](https://github.com/Nurexxl08) |
-| **🛒 AvitoShop** | Практический проект электронной коммерции | Товары, корзина, избранное, фильтры | [Открыть проект](https://github.com/Nurexxl08) |
+| **🍎 Apple Store Clone** | Адаптивный интернет-магазин с современным дизайном продуктов Apple | HTML, CSS, JavaScript, Адаптивность | [GitHub Репозиторий](https://github.com/Nurexxl08/apple) |
+| **🏠 Maison Site** | Стильный сайт-презентация с интерактивными анимациями | UI/UX, CSS Animations, Flexbox/Grid | [GitHub Репозиторий](https://github.com/Nurexxl08/Maison-site-demo) |
+| **🧠 Nura-AI** | Экспериментальный интерактивный проект | TypeScript, Modern JS | [GitHub Репозиторий](https://github.com/Nurexxl08/Nura-AI) |
 
 ---
 
@@ -89,4 +89,21 @@
 <!-- Анимированная змейка контрибьюций -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</
+</p>
+
+---
+
+### 📬 Связаться со мной / Get in Touch
+
+*Открыт для интересных предложений, стажировок и проектов партнеров.*
+
+- 📧 **Электронная почта:** [bekzanovnur0@gmail.com](mailto:bekzanovnur0@gmail.com)
+- 📱 **Телефон / WhatsApp:** +996 505 606 665
+- 💬 **Telegram:** [@Bek7an0v312](https://t.me/Bek7an0v312)
+- 🔗 **LinkedIn:** [Профиль LinkedIn](https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B5%D0%BB%D1%8C-%D1%8D%D1%88%D0%B8%D0%BC%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2-34a65444b/)
+
+---
+
+<p align="center">
+  ✨ <em>Спасибо за посещение моего профиля! / Thanks for visiting my profile!</em> ✨
+</p>
