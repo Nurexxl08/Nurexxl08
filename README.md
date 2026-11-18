@@ -1,8 +1,7 @@
-<!-- Анимированный баннер-шапка (Typewriter эффект) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8¢er=true&vCenter=true&width=750&height=60&lines=Privet%2C+ya+Nurel+%F0%9F%91%8B;Junior+Frontend+Developer+%F0%9F%9A%80;Building+Modern+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
-</p>
-<!-- Статистические мини-бейджи со стилем -->
+<h1 align="center">Привет, я Нурель 👋</h1>
+<h3 align="center">🚀 Junior Frontend Developer | Создаю современные веб-приложения ⚡</h3>
+
+<!-- Статистические мини-бейджи -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nurexxl08&style=for-the-badge&color=00ab6c&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Ready%20to%20Code-blue?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Status" />
@@ -98,7 +97,7 @@
 
 *Открыт для интересных предложений, стажировок и проектов партнеров.*
 
-- 📧 **Электронная почта:** bekzanovnur0@gmail.com
+- 📧 **Электронная почта:** [bekzanovnur0@gmail.com](mailto:bekzanovnur0@gmail.com)
 - 📱 **Телефон / WhatsApp:** +996 505 606 665
 - 💬 **Telegram:** [@Bek7an0v312](https://t.me/Bek7an0v312)
 - 🔗 **LinkedIn:** [Профиль LinkedIn](https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B5%D0%BB%D1%8C-%D1%8D%D1%88%D0%B8%D0%BC%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2-34a65444b/)
