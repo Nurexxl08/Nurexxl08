@@ -1,6 +1,6 @@
 <!-- Анимированный баннер-шапка (Typewriter эффект) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8¢er=true&vCenter=true&width=700&height=60&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%9D%D1%83%D1%80%D0%B5%D0%BB%D1%8C+%F0%9F%91%8B;Junior+Frontend+Developer+%F0%9F%9A%80;Building+Modern+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8¢er=true&vCenter=true&width=750&height=60&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%9D%D1%83%D1%80%D0%B5%D...%2C+%D1%8F+%D0%9D%D1%83%D1%80%D0%B5%D0%...%D0%BB%D1%8C+%F0%9F%91%8B;Junior+Frontend+Developer+%F0%9F%9A%80;Building+Modern+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <!-- Статистические мини-бейджи со стилем -->
